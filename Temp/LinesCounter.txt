@@ -1,4 +1,6 @@
-First line
+First line 
 Second line in branch
-Third line in branch
+Third line from master
 Second line from master
+
+
